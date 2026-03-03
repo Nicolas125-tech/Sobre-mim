@@ -15,10 +15,10 @@
 </p>
 👨‍💻 Sobre mim
 Sou Desenvolvedor Full Stack e estudante do 5º semestre de Engenharia de Software na Unopar (Londrina, PR). O meu foco técnico é a construção de soluções que unem o mundo físico ao digital, criando sistemas de alto impacto utilizando Inteligência Artificial, Internet das Coisas (IoT) e Interfaces Modernas.
-🎯 O que eu faço: Construo SaaS completos, desde a arquitetura de bases de dados (SQL/NoSQL) até à implementação de Visão Computacional (Deep Learning) e Aplicações Nativas.
-🚀 Projeto de Destaque: Criador do ChikGuard PRO, uma plataforma AgTech que utiliza IA (YOLOv8) e Edge Computing para monitorização preditiva e automação térmica em granjas.
-🎓 Educação Contínua: Possuo certificações de peso nas melhores plataformas de tecnologia do mercado: Rocketseat (Ignite ReactJS, NodeJS, IA, Java), EBAC e TreinaWeb.
-🎻 Background Único: Fui professor de Música (Violino, Piano e Orquestra) entre 2023 e 2025. Esta experiência forjou a minha disciplina rigorosa, liderança técnica, comunicação clara e a capacidade de orquestrar soluções complexas em equipa.
+ * 🎯 O que eu faço: Construo SaaS completos, desde a arquitetura de bases de dados (SQL/NoSQL) até à implementação de Visão Computacional (Deep Learning) e Aplicações Nativas.
+ * 🚀 Projeto de Destaque: Criador do ChikGuard PRO, uma plataforma AgTech que utiliza IA (YOLOv8) e Edge Computing para monitorização preditiva e automação térmica em granjas.
+ * 🎓 Educação Contínua: Possuo certificações de peso nas melhores plataformas de tecnologia do mercado: Rocketseat (Ignite ReactJS, NodeJS, IA, Java), EBAC e TreinaWeb.
+ * 🎻 Background Único: Fui professor de Música (Violino, Piano e Orquestra) entre 2023 e 2025. Esta experiência forjou a minha disciplina rigorosa, liderança técnica, comunicação clara e a capacidade de orquestrar soluções complexas em equipa.
 🚀 Stack Tecnológica & Hard Skills
 Aqui estão as ferramentas que domino para transformar problemas complexos em produtos reais:
 <div align="center">
