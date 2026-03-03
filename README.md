@@ -76,3 +76,21 @@ Aceder ao Repositório do Projeto
 <div align="center">
 <p><i>"A tecnologia, como a música, exige harmonia entre técnica, criatividade e execução perfeita."</i></p>
 </div>
+🌐 Web & Mobile (Full Stack)
+
+🗄️ Dados & Ferramentas
+
+📊 Estatísticas do GitHub:
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnicolas125-tech%26theme%3Ddark%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" height="170">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnicolas125-tech%26theme%3Ddark%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Langs" height="170">
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dnicolas125-tech%26theme%3Ddark%26hide_border%3Dtrue" alt="GitHub Streak" width="100%">
+</div>
+
+<div align="center">
+<p><i>"A tecnologia, como a música, exige harmonia entre técnica, criatividade e execução perfeita."</i></p>
+</div>
